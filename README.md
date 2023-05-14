@@ -1,7 +1,6 @@
 # Claude_AI_is_better
 
 
-# 🎉🎉🎉 Welcome to the House of Claude 🎉🎉🎉
 
 Don't adjust your screens! You read that right! Claude is the brand spanking new Language Model brought to you by the brilliant minds at [Anthropic AI](https://www.anthropic.com/). Prepare to be amazed!
 
